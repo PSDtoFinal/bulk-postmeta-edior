@@ -37,3 +37,10 @@ Yes! We're professional website builders ourselves, so go for it. If you'd like 
 **I have an idea to improve this plugin**
 
 Awesome, please hit us up on [Twitter](https://twitter.com/psdtofinal), [Facebook](https://www.facebook.com/psdtofinal/), or [our official website](https://www.psdtofinal.com/).
+
+Changelog
+---------------------
+
+**1.0**
+
+* Initial build and release
